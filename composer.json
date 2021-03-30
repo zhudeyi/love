@@ -2,12 +2,6 @@
     "name": "love/service",
     "description": "for element manager",
     "type": "library",
-    "authors": [
-      {
-        "name": "zhudeyi",
-        "email": "2634718650@qq.com"
-      }
-    ],
     "require": {
 
     },
