@@ -1,5 +1,5 @@
 ﻿{
-    "name": "xiheng/love",
+    "name": "love/service",
     "description": "for element manager",
     "type": "library",
     "require": {},
