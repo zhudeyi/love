@@ -1,9 +1,9 @@
 ﻿{
-    "name": "love/service",
+    "name": "xieheng/love",
     "description": "for element manager",
     "type": "library",
     "require": {
-	"php": ">=5.3.9"
+		"php": ">=5.3.9"
     },
     "autoload":{ 
         "psr-4":{ 
